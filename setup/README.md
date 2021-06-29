@@ -1,3 +1,6 @@
 # Setup
 
-Escribe aquí los pasos para ejecutar/probar tu proyecto y el nombre de los integrantes de tu equipo
+Para ejecutar este proyecto abrir la terminal del ordenador posicionandose en el directorio /koans
+
+Ejecute en consola $rake
+
